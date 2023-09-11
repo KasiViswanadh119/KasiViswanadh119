@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **21mh5a4916@acoe.edu.in**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
