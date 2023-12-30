@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Application for Restaurant using ReactJs**
 
-- 🌱 I’m currently learning **BackEnd technologies like Django WebFramework**
+- 🌱 I’m currently learning **Backend technologies like Django WebFramework**
 
 - 💬 Ask me about **JavaScript,ReactJS**
 
