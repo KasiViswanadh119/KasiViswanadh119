@@ -1,4 +1,4 @@
-[![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif)
+![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif)
 <h1 align="center">Hi 👋, I'm Kasi Viswanadh Duvva</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
